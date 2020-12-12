@@ -1,7 +1,7 @@
 # MiniVT
 一个运行于 Windows 系统下的微型 Intel VT-x 系统驱动程序。
 
-项目采用 C++ 和汇编语言编写。
+项目采用 C/C++ 和汇编语言编写。
 
 早期经测试能于 Windows XP 、Windows 7 和 Windows 10 1607 (build 14393) 运行。
 
